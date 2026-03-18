@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 from pathlib import Path
- import torch
+import torch
 # from PIL import Image
 # import numpy
 from src.config import load_config
