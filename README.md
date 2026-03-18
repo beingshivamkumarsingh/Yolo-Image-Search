@@ -105,6 +105,20 @@ pip install -r requirements.txt
 
 ---
 
+## 📥 Download Model
+
+This project uses YOLOv11 pre-trained weights.
+
+🔗 Download the model from:
+https://github.com/ultralytics/ultralytics
+
+📁 After downloading, place the file in the root directory of the project:
+
+yolo11m.pt
+
+⚠️ Note:
+The model file is not included in this repository due to its large size.
+
 ## ▶️ Run Application
 
 ```
